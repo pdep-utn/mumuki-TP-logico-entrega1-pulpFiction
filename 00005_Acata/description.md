@@ -4,7 +4,7 @@
 
 Resolverlo utilizando recursividad
 
-**Ejemplo: **
+** Ejemplo:**
 
 ``` prolog
 ?- acataOrden(marsellus, Jefe).
