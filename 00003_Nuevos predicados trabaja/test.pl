@@ -7,4 +7,4 @@ test('Bernardo no trabaja para Jules'):-
 
 test('George trabaja para todos los que salen con Bernardo', [nondet]):-
     saleCon(bernardo, Quien),
-    trabaja(Quien, george).
+    trabajaPara(Quien, george).
