@@ -2,9 +2,9 @@
 > otra directa o indirectamente (porque trabaja para otra persona que acata las órdenes del segundo
 > personaje).
 
-Resolverlo utilizando recursividad
+Resolverlo utilizando recursividad.
 
-** Ejemplo:**
+**Ejemplo:**
 
 ``` prolog
 ?- acataOrden(marsellus, Jefe).
