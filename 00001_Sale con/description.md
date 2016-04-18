@@ -12,6 +12,4 @@ Cual = marsellus
 ...
 ```
 
-
-
 (No olvidarse del requerimiento de que los predicados sean **_inversibles_**!)
