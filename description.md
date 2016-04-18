@@ -15,3 +15,11 @@ trabajaPara(marsellus, winston).
 ``` 
 
 Todos los predicados deben ser inversibles en todos sus argumentos, a menos de que se especifique lo contrario.
+
+## Forma de entrega y División de responsabilidades
+
+Cada grupo tendrá *2* integrantes y deben cumplir los 2 con la guía, pero la responsabilidad de cada uno recaerá de la siguiente manera:
+
+Responsable 1 :point_right: Puntos 1 y 3
+
+Responsable 2 :point_right: Puntos 2 y 4
