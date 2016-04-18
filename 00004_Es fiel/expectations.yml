@@ -1,6 +1,6 @@
 ---
 expectations:
-- binding: esFiel
-  inspection: hasNot
-- binding: esFiel
-  inspection: hasBinding
+- binding: hasNot
+  inspection: esFiel
+- binding: hasBinding
+  inspection: esFiel
