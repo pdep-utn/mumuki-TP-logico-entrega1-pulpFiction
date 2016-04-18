@@ -1,0 +1,1 @@
+Te puede ayudar el predicado not/1.
