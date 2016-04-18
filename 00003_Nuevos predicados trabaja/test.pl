@@ -1,5 +1,5 @@
 test('Bernardo trabaja para cualquiera que trabaja para marsellus (salvo para jules)',
-    set(ParaQuien = [vincent, wilson])):-
+    set(ParaQuien = [vincent, winston])):-
     trabajaPara(ParaQuien, bernardo).
     
 test('Bernardo no trabaja para Jules'):-
