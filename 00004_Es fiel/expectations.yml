@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: hasNot
-  inspection: esFiel
+- binding: esFiel
+  inspection: HasNot *
