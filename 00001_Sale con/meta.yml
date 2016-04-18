@@ -3,4 +3,4 @@ tags:
 - relaciones
 layout: editor_right
 type: problem
-extra_visible: false
+extra_visible: true

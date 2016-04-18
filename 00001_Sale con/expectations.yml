@@ -1,4 +1,4 @@
 ---
 expectations:
-- binding: HasBinding
-  inspection: saleCon/2
+- binding: saleCon
+  inspection: HasUsage:pareja
