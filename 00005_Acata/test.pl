@@ -3,4 +3,4 @@ test('Marsellus acata órdenes de vincent, jules, winston y bernardo',
    acataOrden(marsellus, Jefe).  
 
 test('Nadie acata órdenes de Marsellus'):-
-   acataOrden(_, marsellus).
+   not(acataOrden(_, marsellus)).
