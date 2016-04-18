@@ -1,4 +1,4 @@
 ---
 expectations:
 - binding: esFiel
-  inspection: hasUsage:Not
+  inspection: hasUsage:not
