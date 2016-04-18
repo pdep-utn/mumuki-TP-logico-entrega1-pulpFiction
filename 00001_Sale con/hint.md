@@ -1,0 +1,1 @@
+Alguien sale con otro si ese alguien es pareja del "otro", o bien si el otro es pareja de "alguien". 
