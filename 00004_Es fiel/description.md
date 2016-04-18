@@ -1,5 +1,3 @@
-## Fidelidad 
-
 > esFiel/1: una persona es fiel si no tiene más de una pareja. 
 > Alguien que no tiene pareja no puede ser fiel. 
 

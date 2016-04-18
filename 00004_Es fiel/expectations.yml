@@ -2,4 +2,3 @@
 expectations:
 - binding: esFiel
   inspection: hasNot
-  verb: 
