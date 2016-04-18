@@ -20,6 +20,6 @@ Todos los predicados deben ser inversibles en todos sus argumentos, a menos de q
 
 Cada grupo tendrá *2* integrantes y deben cumplir los 2 con la guía, pero la responsabilidad de cada uno recaerá de la siguiente manera:
 
-Responsable 1 :point_right: Puntos 1 y 3
+Responsable 1 :point_right: Puntos 1 y 4
 
-Responsable 2 :point_right: Puntos 2 y 4
+Responsable 2 :point_right: Puntos 2, 3 y 5
