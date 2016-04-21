@@ -1,4 +1,4 @@
-%pareja(marsellus, mia).
+pareja(marsellus, mia).
 pareja(pumkin,    honeyBunny).
 
 %trabajaPara(Empleador, Empleado)
