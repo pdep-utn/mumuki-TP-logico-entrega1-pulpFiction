@@ -1,5 +1,5 @@
-%pareja(marsellus, mia).
-%pareja(pumkin,    honeyBunny).
+pareja(marsellus, mia).
+pareja(pumkin,    honeyBunny).
 
 %trabajaPara(Empleador, Empleado)
 trabajaPara(marsellus, vincent).
