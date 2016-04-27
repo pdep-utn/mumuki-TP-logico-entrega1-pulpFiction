@@ -1,5 +1,5 @@
 > Realizar el predicado `saleCon/2` que relaciona dos personas que están saliendo porque son pareja,
-> independientemente de cómo esté definido en el predicado pareja/2.
+> y es una relación bidireccional (si a es pareja de b, a sale con b y viceversa).
 
 **Ejemplo:**
 
