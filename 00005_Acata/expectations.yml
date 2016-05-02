@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: sanCayetano
+  inspection: 'HasNotUsage: not'
