@@ -6,7 +6,4 @@ pareja(pumkin,    honeyBunny).
 pareja(bernardo,    bianca).
 pareja(bernardo,    charo).
 
-% trabajaPara(Empleador, Empleado)
-trabajaPara(marsellus, vincent).
-trabajaPara(marsellus, jules).
-trabajaPara(marsellus, winston).
+
