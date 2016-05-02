@@ -18,8 +18,4 @@ Todos los predicados deben ser inversibles en todos sus argumentos, a menos de q
 
 ## Forma de entrega y División de responsabilidades
 
-Cada grupo tendrá *2* integrantes y deben cumplir los 2 con la guía, pero la responsabilidad de cada uno recaerá de la siguiente manera:
-
-Responsable 1 :point_right: Puntos 1 y 4
-
-Responsable 2 :point_right: Puntos 2, 3 y 5
+La cantidad de integrantes de cada grupo y la división de responsabilidades debe resolverlo con cada docente.
