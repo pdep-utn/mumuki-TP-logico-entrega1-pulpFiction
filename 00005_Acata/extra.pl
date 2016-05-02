@@ -1,6 +1,3 @@
-pareja(marsellus, mia).
-pareja(pumkin,    honeyBunny).
-
 % ACLARACION: Todos los puntos deben ser completamente inversibles
 
 % ***************************************************************************
@@ -19,11 +16,6 @@ pareja(bernardo,    charo).
 % La cláusula ¿es recursiva? En caso afirmativo separe caso base y caso recursivo.
 saleCon(Uno, Otro):-pareja(Uno, Otro).
 saleCon(Otro, Uno):-pareja(Uno, Otro).
-
-% trabajaPara(Empleador, Empleado)
-trabajaPara(marsellus, vincent).
-trabajaPara(marsellus, jules).
-trabajaPara(marsellus, winston).
 
 % Bernardo trabaja para cualquiera que trabaja para marsellus (salvo para jules)
 trabajaPara(Empleador, bernardo):-trabajaPara(marsellus, Empleador), Empleador \= jules.
