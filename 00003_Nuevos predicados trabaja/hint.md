@@ -1,1 +1,0 @@
-Te puede ayudar el predicado not/1 o el operador distinto, que se escribe `\=`.

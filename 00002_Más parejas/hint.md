@@ -1,0 +1,1 @@
+La cantidad de personas de las que no se tiene información si forman o no pareja puede ser muy grande, potencialmente infinita. ¿Te imaginas lo complicado que sería enumerarlas todas?

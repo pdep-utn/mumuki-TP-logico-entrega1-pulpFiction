@@ -1,5 +1,4 @@
-> esFiel/1: una persona es fiel si no tiene más de una pareja. 
-> Alguien que no tiene pareja no puede ser fiel. 
+Realizar el predicado `esFiel/1` sabiendo que una persona es fiel cuando sale con una única persona. 
 
 Resolverlo utilizando negación.
 

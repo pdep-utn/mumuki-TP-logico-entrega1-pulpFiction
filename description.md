@@ -16,6 +16,4 @@ trabajaPara(marsellus, winston).
 
 Todos los predicados deben ser inversibles en todos sus argumentos, a menos de que se especifique lo contrario.
 
-## Forma de entrega y División de responsabilidades
-
 La cantidad de integrantes de cada grupo y la división de responsabilidades debe resolverlo con cada docente.
