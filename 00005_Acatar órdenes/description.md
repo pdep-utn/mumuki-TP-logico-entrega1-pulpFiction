@@ -5,11 +5,11 @@ Realizar el predicado `acataOrden/2` que relaciona dos personas. Alguien acata l
 **Ejemplo:**
 
 ``` prolog
-?- acataOrden(marsellus, Jefe).
-Jefe = vincent ;
-Jefe = jules ;
-Jefe = winston ;
-Jefe = bernardo ;
-Jefe = bernardo ;
+?- acataOrden(marsellus, Empleado).
+Empleado = vincent ;
+Empleado = jules ;
+Empleado = winston ;
+Empleado = bernardo ;
+Empleado = bernardo ;
 false.
 ``` 
