@@ -1,7 +1,7 @@
 % Punto 2
 % Bernardo es pareja de Bianca y de Charo
-pareja(bernardo,    bianca).
-pareja(bernardo,    charo).
+%pareja(bernardo,    bianca).
+%pareja(bernardo,    charo).
 
 % Punto 1
 % saleCon/2: determina si alguien está saliendo con otra persona, porque son pareja
