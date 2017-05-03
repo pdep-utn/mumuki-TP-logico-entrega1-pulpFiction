@@ -1,5 +1,4 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: esFiel
+- binding: esFiel
   inspection: HasNot
