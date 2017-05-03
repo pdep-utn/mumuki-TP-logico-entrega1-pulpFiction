@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: saleCon
+- !ruby/hash:BSON::Document
+  binding: saleCon
   inspection: HasUsage:pareja
